@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Wolfram Mathematica-DD1100?style=flat-square&logo=wolfram mathematica&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Wolfram Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <br>
