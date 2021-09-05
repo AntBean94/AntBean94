@@ -53,7 +53,7 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=algoant">
 </p>
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=AntBean94&show_icons=true&theme=flag-india&count_private=true"/></a>
+    <a href="https://solved.ac/profile/algoant"></a><img src="https://github-readme-stats.vercel.app/api?username=AntBean94&show_icons=true&theme=flag-india&count_private=true"/></a>
 </p>
 
 
