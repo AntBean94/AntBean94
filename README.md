@@ -1,8 +1,3 @@
-<p>
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=300&section=header&text=OnGyeom%20Gwak&fontSize=85&animation=twinkling" />
-</p>
-
-
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -55,8 +50,12 @@
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AntBean94/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AntBean94&show_icons=true&theme=flag-india&count_private=true"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=AntBean94&show_icons=true&theme=flag-india&count_private=true"/></a><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=algoant">
 </p>
+
+
+
+
 
 
 
