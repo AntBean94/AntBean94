@@ -50,7 +50,10 @@
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AntBean94/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <p>
-    <img align='left' style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=AntBean94&show_icons=true&theme=flag-india&count_private=true"/><img align='right' style="display: inline-block;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=algoant"></a>
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=algoant">
+</p>
+<p>
+    <img align='center' src="https://github-readme-stats.vercel.app/api?username=AntBean94&show_icons=true&theme=flag-india&count_private=true"/></a>
 </p>
 
 
