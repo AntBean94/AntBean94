@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with Web Optimization**
 
-- 👨‍💻 All of my projects are available at https://www.notion.so/b47ba753bc3a436d923058eb3492181a
+- 👨‍💻 You can check all projects on the [link](https://meadow-tuck-039.notion.site/b47ba753bc3a436d923058eb3492181a).
 
 - 📝 I regularly write articles on [https://codingantbean.tistory.com](https://codingantbean.tistory.com)
 
