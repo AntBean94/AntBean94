@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with Web Optimization**
 
-- 👨‍💻 All of my projects are available at ...
+- 👨‍💻 All of my projects are available at https://www.notion.so/b47ba753bc3a436d923058eb3492181a
 
 - 📝 I regularly write articles on [https://codingantbean.tistory.com](https://codingantbean.tistory.com)
 
