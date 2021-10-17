@@ -1,64 +1,26 @@
+<h1 align="center">Hi 👋, I'm OnGyeom Gwak</h1>
+<h3 align="center">A steady developer like an 🐜.</h3>
+
+- 🔭 I’m currently working on **multicampus, SSAFY-Coach**
+
+- 🌱 I’m currently learning **Machine Learning with Web Optimization**
+
+- 👨‍💻 All of my projects are available at ...
+
+- 📝 I regularly write articles on [https://codingantbean.tistory.com](https://codingantbean.tistory.com)
+
+- 💬 Ask me about **vue, django, machine learning**
+
+- 📫 How to reach me **dhsrua2015@gmail.com**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20AWS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira%20software&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=Confluence&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp
-</p>
-
-
-<br><br>
-
-<h3 align="center"> 🍒 Me 🍒 </h3>
-<p align="center">
-    <!--
-  <a href="https://maeng2world.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://maeng2world.tistory.com/"/></a>&nbsp
--->
-  <a href="https://codingantbean.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://codingantbean.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/ongyeomgwak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ongyeomgwak/"/></a>&nbsp
-  <a href="mailto:dhsrua2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dhsrua2015@gmail.com"/></a>
-</p>
-<br>
-
-<p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AntBean94/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
 <p align='center'>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=algoant">
-</p>
-<p align='center'>
     <a href="https://solved.ac/profile/algoant"></a><img src="https://github-readme-stats.vercel.app/api?username=AntBean94&show_icons=true&theme=flag-india&count_private=true"/></a>
 </p>
-
-
-
-
-
 
 
