@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm OnGyeom Gwak</h1>
 <h3 align="center">A steady developer like an 🐜.</h3>
 
-- 🔭 I’m currently working on **multicampus, SSAFY-Coach**
+- 🔭 I’m currently working on **Kakao Enterprise, Developer**
 
-- 🌱 I’m currently learning **Machine Learning with Web Optimization**
+- 🌱 I’m currently learning **Vanilla Javascript and Vue**
 
 - 👨‍💻 You can check all projects on the [link](https://meadow-tuck-039.notion.site/b47ba753bc3a436d923058eb3492181a).
 
